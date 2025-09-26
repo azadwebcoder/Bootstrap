@@ -1,5 +1,5 @@
 * {
-  margin: 20px AUTO;
+  margin: 0px AUTO;
   padding: 0px;
   font-family: "Courier New", Courier, monospace;
   background-color: #fff;
@@ -9,11 +9,18 @@ h1 {
   font-family: tahoma;
   font-style: italic;
   font-size: 30px;
+  text-align-last: center;
   color: blue;
 }
 
 p {
   width: 800px;
   font-size: 18px;
-  color: red;
+  color: black;
+  line-height: 1.6;
+}
+
+img {
+  width: 500px;
+  height: auto;
 }
