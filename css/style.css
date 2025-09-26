@@ -1,0 +1,19 @@
+* {
+  margin: 20px AUTO;
+  padding: 0px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #fff;
+}
+
+h1 {
+  font-family: tahoma;
+  font-style: italic;
+  font-size: 30px;
+  color: blue;
+}
+
+p {
+  width: 800px;
+  font-size: 18px;
+  color: red;
+}
